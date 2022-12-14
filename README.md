@@ -1,6 +1,8 @@
-# Задания
-    1. Показать статистику сыгранных часов людьми, прошедшими опрос
-    2. Показать, как часто используются определенные оружия боя и какие являются более популярными
-    3. Показать зависимость количества убийств с пистолета от количества попаданий
-# Изображение
+# Tasks
+    Show difference between longitude and latitude values
+    1. With the matplotlib defaults
+    2. With marker size 50% and alpha 50%
+    3. With hexbin plot
+    4. With Subsampling
+# Preview
   <img src="https://user-images.githubusercontent.com/98150971/207599577-07b38624-6a42-4142-837b-14b94b21a04d.png">
