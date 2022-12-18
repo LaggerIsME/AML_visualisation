@@ -98,7 +98,7 @@ def graph_word():
     car = ['Daewoo', 'Mercedes', 'Samsung', 'Toyota', 'Honda']
     explode = (0.05, 0.05, 0.05, 0.05, 0.05)
     number_of_cars = [255000, 300000, 70000, 450000, 130000]
-    plt.pie(number_of_cars, labels=car,  explode=explode, autopct='%1.1f%%', pctdistance=0.80)
+    plt.pie(number_of_cars, labels=car, explode=explode, autopct='%1.1f%%', pctdistance=0.80)
     # Draw a Circle
     centre = plt.Circle((0, 0), 0.70, fc='white')
     fig = plt.gcf()
@@ -106,6 +106,8 @@ def graph_word():
     fig.gca().add_artist(centre)
     plt.title('The popularity of car brands in Kazakhstan')
     plt.show()
+
+
 def graph_pdf():
     # Reading of CSV
     fig, axs = plt.subplots(2, 2, figsize=(16, 12))
