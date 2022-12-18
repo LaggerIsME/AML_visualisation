@@ -9,7 +9,7 @@
     3. With hexbin plot
     4. With Subsampling
 # Images
-  Tasks in Word
+  ## Tasks in Word
 
   1. 
   <img src="https://user-images.githubusercontent.com/98150971/208297990-52d1b80a-b096-4973-bbca-32634fa36b42.png">
